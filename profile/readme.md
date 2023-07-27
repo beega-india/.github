@@ -6,11 +6,11 @@
 
 ### 👋 Introduction
 
-We are an open-source authenticator app.
+We are an open-source authenticator platform.
 
 ### 🎯 Objective
 
-To build an open-source authenticator app that is secure, ad-free, inclusive and compliant with the rules and regulations of India.
+To build an open-source authenticator platform that is secure, ad-free, inclusive and compliant with the rules and regulations of India.
 
 ### 🌈 Contribution guidelines
 
